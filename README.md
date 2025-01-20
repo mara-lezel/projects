@@ -1,2 +1,2 @@
 # projects
-Toy problems
+Small projects I worked on while in uni
