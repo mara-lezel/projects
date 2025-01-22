@@ -1,5 +1,5 @@
 # Ecosystem Simulation - Toy Project in Java
-This program is a simple ecosystem simulation, where:
+**This program is a simple ecosystem simulation, where:**
 * World is represented by a 2D grid
 * User can grow plants or introduce animals into the ecosystem
 * Plants grow, reproduce and wither
