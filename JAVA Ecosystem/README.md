@@ -5,7 +5,8 @@
 * Plants grow, reproduce and wither
 * Animals can eat plants, or hunt each other
 * If animals cannot get food, they starve to death
-  
+
+<br/>
 **Plants have different types, which grow at different speeds and patterns:**
 * Alyssum
 * Beet
@@ -14,6 +15,7 @@
 * Moss
 * Sunflower
 
+<br/>
 **Similarly, different animals have different movement and speed values:**
 * Rabbit - prey
 * Sheep - prey
