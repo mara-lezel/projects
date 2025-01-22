@@ -6,8 +6,7 @@ This program is a simple ecosystem simulation, where:
 * Animals can eat plants, or hunt each other
 * If animals cannot get food, they starve to death
   
-Ecosystem has 3 types of entities - plants, herbivores and carnivores.
-
+Ecosystem has 3 types of entities - **plants, herbivores and carnivores.**
 Plants have different types, which grow at different speeds and patterns:
 * Alyssum
 * Beet
