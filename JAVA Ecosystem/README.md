@@ -16,6 +16,7 @@
 * Moss
 * Sunflower
 
+<br/>
 
 **Similarly, different animals have different movement and speed values:**
 * Rabbit - prey
